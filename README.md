@@ -42,7 +42,7 @@ Analysed 4,000+ used car listings using Python and SQL to find pricing patterns 
 ### 🔹 NVIDIA Stock Price Prediction  
 Developed a Python + PostgreSQL pipeline to clean and model 5 years of historical stock data.  
 Used machine learning to predict price movements and visualise key investment indicators.  
-📂 [View Project Repo](https://github.com/yourusername/nvidia-stock-price-prediction](https://github.com/rudrabhende03/Nvidia-Stock-Price-Prediction/tree/main)
+📂 [View Project Repo](https://github.com/rudrabhende03/Nvidia-Stock-Price-Prediction)
 
 ---
 
