@@ -23,11 +23,11 @@ You can view or download my latest resume below:
 
 ## 📜 Certifications
 
-- 🎓 BCS Foundation Certificate in Business Analysis – *Jan 2025*
-- 🎓 Entry Certificate in Business Analysis (IIBA) – *Jun 2024*
-- 📊 Accenture North America Data Analytics & Visualization Simulation – *Jul 2024*
-- 💼 SAP Technical Consulting Simulation – *Dec 2023*
-- 🛠 ITIL Foundation Certification – *Jun 2022*
+- 🎓 [BCS Foundation Certificate in Business Analysis – *Jan 2025*](https://github.com/rudrabhende03/Rudra-s-Portfolio/blob/Certifications/BCS_Business_Analysis.pdf)
+- 🎓 [Entry Certificate in Business Analysis (IIBA) – *Jun 2024*](https://github.com/rudrabhende03/Rudra-s-Portfolio/blob/Certifications/IIBA_Entry_Certificate.pdf)
+- 📊 [Accenture Data Analytics & Visualization Simulation – *Jul 2024*](https://github.com/rudrabhende03/Rudra-s-Portfolio/blob/Certifications/Accenture_Analytics_Simulation.pdf)
+- 💼 [SAP Technical Consulting Simulation – *Dec 2023*](https://github.com/rudrabhende03/Rudra-s-Portfolio/blob/Certifications/SAP_Technical_Consulting.pdf)
+- 🛠 [ITIL Foundation Certification – *Jun 2022*](https://github.com/rudrabhende03/Rudra-s-Portfolio/blob/Certifications/ITIL_Foundation.pdf)
 
 ---
 
