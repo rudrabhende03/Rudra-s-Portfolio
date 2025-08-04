@@ -17,7 +17,7 @@ With a technical toolkit including Python, SQL, and Power BI—and hands-on expe
 
 You can view or download my latest resume below:
 
-📄 [Rudra Data Analyst CV.pdf](./Rudra_Data_Analyst_CV.pdf)
+📄 [Rudra_Data_Analyst_CV.pdf](./Rudra_Data_Analyst_CV.pdf)
 
 ---
 
