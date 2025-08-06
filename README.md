@@ -5,6 +5,10 @@
 🎓 MSc in International Management | 🎯 Data/Business Analyst | 📊 Python | Power BI | SQL | Tableau  
 📌 Currently looking for **Data Analyst** or **Business Analyst** roles in dynamic, impact-driven organizations.
 
+Open to Work in <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/f627d327-621a-4f4b-8f05-00a663161e78" />
+ India, <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/98a20d58-941a-4eab-9ac7-4ab0a0508e7c" />
+ United Kingdom and remotely (Have right to work in both countries)
+
 I'm a data-driven professional with 4+ years of experience transforming raw data into meaningful insights that drive better decisions. I specialise in building dashboards, automating workflows, and uncovering trends to support growth and efficiency.
 
 With a technical toolkit including Python, SQL, and Power BI—and hands-on experience across SaaS, tech support, and product analytics—I thrive at the intersection of data, business, and execution.
