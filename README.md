@@ -39,7 +39,7 @@ You can view or download my latest resume below:
 
 ### 🔹 Used Car Price Segmentation & Trend Dashboard  
 Analysed 4,000+ used car listings using Python and SQL to find pricing patterns by brand, year, and fuel type.  
-📂 [View Project Repo](https://github.com/yourusername/used-car-price-trends)
+📂 [View Project Repo](https://github.com/rudrabhende03/Used-Car-Price-Segmentation)
 
 ---
 
