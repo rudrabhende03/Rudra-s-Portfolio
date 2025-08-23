@@ -2,18 +2,19 @@
 
 ## 👋 Hi, I'm Rudra Bhende
 
-🎓 MSc in International Management | 🎯 Data/Business Analyst | 📊 Python | Power BI | SQL | Tableau  
-📌 Currently looking for **Data Analyst** or **Business Analyst** roles in dynamic, impact-driven organizations.
+Business & Data Analyst with 4+ years of experience delivering data intelligence, automation, and business insights across SaaS, consulting, and retail domains. Skilled at building end-to-end data pipelines (SQL, Python, R), developing predictive ML models (scikit-learn, Alteryx), and designing interactive dashboards (Power BI, Tableau, Excel) that reduce reporting cycles and unlock growth opportunities.
 
-Open to Work in <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/f627d327-621a-4f4b-8f05-00a663161e78" />
- India, <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/98a20d58-941a-4eab-9ac7-4ab0a0508e7c" />
- United Kingdom and remotely (Have right to work in both countries)
+### Highlights:
 
-I'm a data-driven professional with 4+ years of experience transforming raw data into meaningful insights that drive better decisions. I specialise in building dashboards, automating workflows, and uncovering trends to support growth and efficiency.
+📊 Analytics Impact: Automated 60% of manual reporting, built churn models with 85% accuracy, and delivered dashboards that cut reporting time by 40%.
 
-With a technical toolkit including Python, SQL, and Power BI—and hands-on experience across SaaS, tech support, and product analytics—I thrive at the intersection of data, business, and execution.
+🛠️ Technical Stack: SQL | Python | R | Pandas | NumPy | Scikit-learn | Power BI | Tableau | Alteryx | Excel (advanced) | GitHub | ETL pipelines | APIs.
 
-📍 Based in London | 🛠 Actively building data projects | 💬 Always open to collaborating and learning.
+🤝 Business Analysis: Requirements elicitation, BRDs/TRDs, process modelling (Visio, Lucidchart), ROI analysis, stakeholder workshops.
+
+🧠 GenAI & Agents: Hands-on experimentation with LLM-based automation, prompt engineering, and exploring frameworks like LangChain, AutoGPT, CrewAI.
+
+🎓 Certifications: BCS Business Analysis | IIBA ECBA | ITIL Foundation | Accenture Data Analytics & Visualisation.
 
 ---
 
