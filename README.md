@@ -22,7 +22,7 @@ Business & Data Analyst with 4+ years of experience delivering data intelligence
 
 You can view or download my latest resume below:
 
-📄 [Rudra_Bhende_CV.pdf](./Rudra_Bhende_CV.pdf)
+📄 [Rudra_Bhende_CV.pdf](./RudraBhende_CV.pdf)
 
 ---
 
